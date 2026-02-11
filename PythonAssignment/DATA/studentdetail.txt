@@ -1,0 +1,5 @@
+TP_number,Password,Name,Course_id,Course,Date_of_Birth,Contact,Address,Emergency Contact,Emergency Relationship
+S1,Student1,Student1,C1,Diploma in ict(DI),2006-06-01,011-222-3333,Kuala Lumpur,01131083779,Mother
+S2,Student2,Student2,C1,Diploma in ict(SE),2006-06-02,010-0000002,sarawak,011-0000002,Brother
+S3,Student3,Student3,C2,Diploma in ict(DI),2006-06-03,010-0000003,sabah,011-0000003,Father
+S4,Student4,Student4,C2,Diploma in ict(DI),2006-06-04,010-0000004,perlis,011-0000004,Father

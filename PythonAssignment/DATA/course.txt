@@ -1,0 +1,3 @@
+Course_id,Course,School_fee
+C1,Diploma in ict(SE),100.0
+C2,Diploma in ict(DI),100.0

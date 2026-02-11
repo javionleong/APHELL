@@ -1,0 +1,5 @@
+Class_id,Course_id,Subject,TP_number,Date,Time,Room,Group,Status
+Class1,C1,Python,T2,26-05-2006,10:00 AM - 11:00 AM,Room A,A,Active
+Class2,C1,Mathematics,T2,26-06-2006,1:00 PM - 3:00 PM,Room A,B,Active
+Class3,C2,Java,T3,27-08-2006,10:00 AM - 12:00 PM,Room B,A,Completed
+Class4,C2,C++,T3,25-06-2006,2:00 PM - 4:00 PM,Room B,B,Cancelled

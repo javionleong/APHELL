@@ -1,0 +1,7 @@
+TP_number,Course_id,Course,Group
+S1,C1,Diploma in ict(SE),A
+S2,C1,Diploma in ict(SE),B
+S3,C2,Diploma in ict(DI),A
+S4,C2,Diploma in ict(DI),B
+S6,C1,Diploma in ict(SE),A
+S7,C1,Diploma in ict(SE),A

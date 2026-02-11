@@ -1,0 +1,5 @@
+Resource_id,Resource,Room,Status
+R1,Printer,Room A,Available
+R2,Projector,Room A,Maintenance
+R3,Computers,Room A,Unavailable
+R4,Projector,Room B,Available

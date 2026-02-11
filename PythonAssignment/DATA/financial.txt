@@ -1,0 +1,5 @@
+TP_number,Tuition_fee,Amount_paid,Balance,Payment_status
+S1,100,50,50,Pending
+S2,100,25,75,Pending
+S3,200,200,0,Completed
+S6,100.0,70.0,30.0,Pending

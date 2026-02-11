@@ -1,0 +1,5 @@
+Course_id,Subject,Material_type,Link
+C1,Python,Lecturer Note,link1
+C1,Mathematics,Lecturer Note,link2
+C2,Java,Assignment,link3
+C2,C++,Assignment,link4

@@ -1,0 +1,3 @@
+Course_id,Course,Subject1,Subject2
+C1,Diploma in ict(SE),Python,Mathematics
+C2,Diploma in ict(DI),Java,Python

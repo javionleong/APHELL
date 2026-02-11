@@ -1,0 +1,4 @@
+Event_id,Event,Date,Venue
+E1,APU Opening Day,2025-04-01,APU Campus
+E2,How to Prevent Scam,2024-04-10,Auditorium 1
+E3,Esport Tournament Briefing,2024-04-30,Auditorium 1

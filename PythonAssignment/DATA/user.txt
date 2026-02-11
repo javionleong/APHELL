@@ -1,0 +1,17 @@
+TP_number,Password,Role,Name
+A1,Administrator1,Administrator,Administrator1
+S1,Student1,Student,Student1
+T1,Teacher1,Teacher,Teacher1
+STAFF1,Staff1,Staff,Staff1
+S2,Student2,Student,Student2
+S3,Student3,Student,Student3
+S4,Student4,Student,Student4
+T4,Teacher4,Teacher,Teacher4
+T2,Teacher2,Teacher,Teacher2
+T3,Teacher3,Teacher,Teacher3
+A2,1234567,Administration,1
+A3,1231242,Administration,Administrator1
+A4,Administrator4,Administration,Administrator4
+S5,Student5,Student,Student5
+S6,12312312312,Student,12312
+S7,Student7,Student,Student7

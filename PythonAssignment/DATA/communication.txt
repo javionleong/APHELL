@@ -1,0 +1,6 @@
+Message_id,Staff_name,Receiver,Message
+M1,Kai,Student,Hello Students
+M2,Kai,All,Hello Everyone
+M3,Kai,Teacher,Hello Teachers
+M4,Kai,Staff,Hello Staff Members
+M5,Kai,Administrator,Hello Admins

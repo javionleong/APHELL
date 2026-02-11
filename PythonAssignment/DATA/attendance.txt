@@ -1,0 +1,6 @@
+TP_number,Course_id,Subject,Date,Status
+S1,C1,Python,2024-02-25,Absent
+S2,C1,Mathematics,2024-02-25,Absent
+S3,C2,Java,2024-02-26,Late
+S4,C2,C++,2024-02-27,Present
+S3,C2,C++,2006-06-06,Present
